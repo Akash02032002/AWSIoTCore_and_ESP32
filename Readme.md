@@ -1,4 +1,4 @@
-![img23](https://github.com/user-attachments/assets/ce37b17a-c7c5-4b5f-86e8-50f78ed3618a)# Home Automation using Amazon AWS IoT Core & ESP32
+# Home Automation using Amazon AWS IoT Core & ESP32
 
 ## Home Automation Project using Amazon AWS IoT Core & ESP32 WiFi Module.
 
